@@ -9,5 +9,7 @@
  And Log into the Jenkins dashboard and install the sonarqube scanner and docker to container plugin. 
 
  Install the sonarqube server.
+ ![Screenshot 2024-11-17 130346](https://github.com/user-attachments/assets/5e1d8343-062a-49b3-84bd-6107ed900f9d)
+
  
  
