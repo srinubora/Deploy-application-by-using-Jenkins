@@ -13,6 +13,8 @@
  Jenkins pipeline success
  ![Screenshot 2024-11-17 133043](https://github.com/user-attachments/assets/7ab4d0ac-d7e7-4a51-80f2-c85b67993b98)
  Code analysis sonarqube
+ ![Screenshot 2024-11-17 133944](https://github.com/user-attachments/assets/cd5980b9-1ce5-4a13-84ec-700424f64705)
+
 
 
 
